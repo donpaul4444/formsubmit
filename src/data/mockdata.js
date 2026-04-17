@@ -2,7 +2,7 @@
   {
     id: "1",
     title: "Job Application",
-    description: "Application form for job",
+    description: "Application form for job ",
     fields: [
       { label: "Name", type: "text", required: true },
       { label: "Age", type: "number", required: true },
